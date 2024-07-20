@@ -1,0 +1,300 @@
+bright.a 1 :: promising
+bright.a 2 :: shiny
+bright.a 3 :: burnished
+bright.a 4 :: brilliant
+bright.a 5 :: promising
+bright.a 6 :: promising
+bright.a 7 :: promising
+bright.a 8 :: vivid
+bright.a 9 :: shining
+bright.a 10 :: brilliant
+film.n 11 :: cinema
+film.n 12 :: movie
+film.n 13 :: plastic film
+film.n 14 :: picture
+film.n 15 :: plastic film
+film.n 16 :: plastic film
+film.n 17 :: movie
+film.n 18 :: plastic film
+film.n 19 :: movie
+film.n 20 :: movie
+take.v 21 :: subscribe to
+take.v 22 :: have
+take.v 23 :: assume
+take.v 24 :: require
+take.v 25 :: assume
+take.v 26 :: assume
+take.v 27 :: read
+take.v 28 :: get
+take.v 29 :: have
+take.v 30 :: assume
+tight.r 31 :: fast
+tight.r 32 :: close
+tight.r 33 :: closely
+tight.r 34 :: closely
+tight.r 35 :: close
+tight.r 36 :: closely
+tight.r 37 :: close
+tight.r 38 :: fast
+tight.r 39 :: fast
+tight.r 40 :: close
+bar.n 41 :: measure
+bar.n 42 :: stripe
+bar.n 43 :: streak
+bar.n 44 :: streak
+bar.n 45 :: ginmill
+bar.n 46 :: ginmill
+bar.n 47 :: stripe
+bar.n 48 :: saloon
+bar.n 49 :: saloon
+bar.v 50 :: block up
+cross.n 51 :: mark
+cross.n 52 :: hybridisation
+cross.n 53 :: mark
+cross.n 54 :: hybrid
+cross.n 55 :: hybridisation
+cross.n 56 :: hybridisation
+cross.n 57 :: mark
+cross.n 58 :: hybridisation
+cross.n 59 :: hybrid
+cross.a 60 :: transversal
+finally.r 61 :: last
+finally.r 62 :: in the end
+finally.r 63 :: eventually
+finally.r 64 :: in the end
+finally.r 65 :: lastly
+finally.r 66 :: in the end
+finally.r 67 :: eventually
+finally.r 68 :: in the end
+finally.r 69 :: in the end
+finally.r 70 :: in the end
+find.v 71 :: line up
+find.v 72 :: feel
+find.v 73 :: receive
+find.v 74 :: obtain
+find.v 75 :: determine
+find.v 76 :: see
+find.v 77 :: discover
+find.v 78 :: feel
+find.v 79 :: determine
+find.v 80 :: discover
+fix.v 81 :: get
+fix.v 82 :: make
+fix.v 83 :: repair
+fix.v 84 :: restore
+fix.v 85 :: mend
+fix.v 86 :: get
+fix.v 87 :: ready
+fix.v 88 :: set
+fix.v 89 :: determine
+fix.v 90 :: set
+manage.v 91 :: care
+manage.v 92 :: handle
+manage.v 93 :: carry off
+manage.v 94 :: oversee
+manage.v 95 :: supervise
+manage.v 96 :: supervise
+manage.v 97 :: carry off
+manage.v 98 :: care
+manage.v 99 :: contend
+manage.v 100 :: oversee
+neat.a 101 :: great
+neat.a 102 :: slap-up
+neat.a 103 :: orderly
+neat.a 104 :: clean
+neat.a 105 :: clean
+neat.a 106 :: great
+neat.a 107 :: great
+neat.a 108 :: great
+neat.a 109 :: orderly
+neat.a 110 :: great
+rich.a 111 :: productive
+rich.a 112 :: racy
+rich.a 113 :: robust
+rich.a 114 :: fat
+rich.a 115 :: racy
+rich.a 116 :: productive
+rich.a 117 :: racy
+rich.a 118 :: fertile
+rich.a 119 :: racy
+rich.a 120 :: racy
+severely.r 121 :: badly
+severely.r 122 :: seriously
+severely.r 123 :: seriously
+severely.r 124 :: hard
+severely.r 125 :: seriously
+severely.r 126 :: seriously
+severely.r 127 :: badly
+severely.r 128 :: badly
+severely.r 129 :: seriously
+severely.r 130 :: badly
+stand.v 131 :: bear
+stand.v 132 :: endure
+stand.v 133 :: stick out
+stand.v 134 :: stick out
+stand.v 135 :: stick out
+stand.v 136 :: bear
+stand.n 137 :: outdoor stage
+stand.n 138 :: outdoor stage
+stand.n 139 :: pedestal
+stand.n 140 :: viewpoint
+well.r 141 :: good
+well.r 142 :: comfortably
+well.r 143 :: comfortably
+well.r 144 :: good
+well.r 145 :: advantageously
+well.r 146 :: easily
+well.r 147 :: advantageously
+well.r 148 :: easily
+well.r 149 :: advantageously
+well.r 150 :: advantageously
+wild.a 151 :: savage
+wild.a 152 :: savage
+wild.a 153 :: crazy
+wild.a 154 :: savage
+wild.a 155 :: fantastic
+wild.a 156 :: violent
+wild.a 157 :: tempestuous
+wild.a 158 :: tempestuous
+wild.a 159 :: savage
+wild.n 160 :: wilderness
+can.n 161 :: derriere
+can.n 162 :: derriere
+can.n 163 :: derriere
+can.n 164 :: toilet
+can.n 165 :: pot
+can.n 166 :: derriere
+can.n 167 :: derriere
+can.n 168 :: pot
+can.n 169 :: tin
+can.n 170 :: pot
+dark.n 171 :: darkness
+dark.n 172 :: night
+dark.n 173 :: darkness
+dark.n 174 :: night
+dark.n 175 :: darkness
+dark.n 176 :: shadow
+dark.n 177 :: darkness
+dark.n 178 :: iniquity
+dark.n 179 :: iniquity
+dark.n 180 :: iniquity
+examination.n 181 :: exam
+examination.n 182 :: exam
+examination.n 183 :: examen
+examination.n 184 :: scrutiny
+examination.n 185 :: examen
+examination.n 186 :: testing
+examination.n 187 :: scrutiny
+examination.n 188 :: examen
+examination.n 189 :: exam
+examination.n 190 :: test
+fear.v 191 :: reverence
+fear.v 192 :: dread
+fear.v 193 :: reverence
+fear.v 194 :: reverence
+fear.v 195 :: dread
+fear.v 196 :: reverence
+fear.v 197 :: dread
+fear.v 198 :: reverence
+fear.v 199 :: reverence
+fear.v 200 :: reverence
+forget.v 201 :: blank out
+forget.v 202 :: blank out
+forget.v 203 :: blank out
+forget.v 204 :: bury
+forget.v 205 :: leave
+forget.v 206 :: leave
+forget.v 207 :: bury
+forget.v 208 :: blank out
+forget.v 209 :: blank out
+forget.v 210 :: blank out
+gall.n 211 :: bile
+gall.n 212 :: freshness
+gall.n 213 :: bitterness
+gall.n 214 :: bile
+gall.n 215 :: freshness
+gall.n 216 :: freshness
+gall.n 217 :: resentment
+gall.n 218 :: freshness
+gall.n 219 :: freshness
+gall.n 220 :: freshness
+grim.a 221 :: dark
+grim.a 222 :: sick
+grim.a 223 :: sick
+grim.a 224 :: unforgiving
+grim.a 225 :: relentless
+grim.a 226 :: unforgiving
+grim.a 227 :: relentless
+grim.a 228 :: sick
+grim.a 229 :: unforgiving
+grim.a 230 :: depressed
+lie.v 231 :: lie down
+lie.v 232 :: dwell
+lie.v 233 :: lie down
+lie.v 234 :: lie down
+lie.v 235 :: lie down
+lie.v 236 :: lie down
+lie.v 237 :: rest
+lie.v 238 :: rest
+lie.v 239 :: lie down
+lie.v 240 :: lie down
+nasty.a 241 :: smutty
+nasty.a 242 :: tight
+nasty.a 243 :: filthy
+nasty.a 244 :: tight
+nasty.a 245 :: smutty
+nasty.a 246 :: smutty
+nasty.a 247 :: foul
+nasty.a 248 :: filthy
+nasty.a 249 :: smutty
+nasty.a 250 :: awful
+nearly.r 251 :: almost
+nearly.r 252 :: virtually
+nearly.r 253 :: almost
+nearly.r 254 :: about
+nearly.r 255 :: almost
+nearly.r 256 :: virtually
+nearly.r 257 :: almost
+nearly.r 258 :: almost
+nearly.r 259 :: almost
+nearly.r 260 :: almost
+outdoor.a 261 :: out-of-door
+outdoor.a 262 :: out-of-door
+outdoor.a 263 :: out-of-door
+outdoor.a 264 :: out-of-door
+outdoor.a 265 :: outside
+outdoor.a 266 :: outside
+outdoor.a 267 :: outside
+outdoor.a 268 :: out-of-door
+outdoor.a 269 :: outside
+outdoor.a 270 :: outside
+reasonable.a 271 :: fair
+reasonable.a 272 :: sensible
+reasonable.a 273 :: sensible
+reasonable.a 274 :: fairish
+reasonable.a 275 :: fair
+reasonable.a 276 :: sensible
+reasonable.a 277 :: fair
+reasonable.a 278 :: fair
+reasonable.a 279 :: fair
+reasonable.a 280 :: fairish
+rough.a 281 :: crude
+rough.a 282 :: uncut
+rough.a 283 :: crude
+rough.a 284 :: crude
+rough.a 285 :: crude
+rough.a 286 :: uncut
+rough.a 287 :: fierce
+rough.a 288 :: rocky
+rough.a 289 :: uncut
+rough.a 290 :: fierce
+run.v 291 :: lead
+run.v 292 :: play
+run.v 293 :: lead
+run.v 294 :: track down
+run.v 295 :: lead
+run.v 296 :: track down
+run.v 297 :: campaign
+run.v 298 :: play
+run.v 299 :: operate
+run.v 300 :: draw

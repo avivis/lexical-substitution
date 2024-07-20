@@ -1,0 +1,300 @@
+bright.a 1 :: shining
+bright.a 2 :: shining
+bright.a 3 :: shining
+bright.a 4 :: shining
+bright.a 5 :: shining
+bright.a 6 :: shining
+bright.a 7 :: shining
+bright.a 8 :: shining
+bright.a 9 :: shining
+bright.a 10 :: shining
+film.n 11 :: movie
+film.n 12 :: movie
+film.n 13 :: movie
+film.n 14 :: movie
+film.n 15 :: movie
+film.n 16 :: movie
+film.n 17 :: movie
+film.n 18 :: movie
+film.n 19 :: movie
+film.n 20 :: movie
+take.v 21 :: 
+take.v 22 :: 
+take.v 23 :: 
+take.v 24 :: 
+take.v 25 :: 
+take.v 26 :: 
+take.v 27 :: 
+take.v 28 :: 
+take.v 29 :: 
+take.v 30 :: 
+tight.r 31 :: 
+tight.r 32 :: 
+tight.r 33 :: 
+tight.r 34 :: 
+tight.r 35 :: 
+tight.r 36 :: 
+tight.r 37 :: 
+tight.r 38 :: 
+tight.r 39 :: 
+tight.r 40 :: 
+bar.n 41 :: 
+bar.n 42 :: 
+bar.n 43 :: 
+bar.n 44 :: 
+bar.n 45 :: 
+bar.n 46 :: 
+bar.n 47 :: 
+bar.n 48 :: 
+bar.n 49 :: 
+bar.v 50 :: 
+cross.n 51 :: crossing
+cross.n 52 :: crossing
+cross.n 53 :: crossing
+cross.n 54 :: crossing
+cross.n 55 :: crossing
+cross.n 56 :: crossing
+cross.n 57 :: crossing
+cross.n 58 :: crossing
+cross.n 59 :: crossing
+cross.a 60 :: 
+finally.r 61 :: eventually
+finally.r 62 :: eventually
+finally.r 63 :: eventually
+finally.r 64 :: eventually
+finally.r 65 :: eventually
+finally.r 66 :: eventually
+finally.r 67 :: eventually
+finally.r 68 :: eventually
+finally.r 69 :: eventually
+finally.r 70 :: eventually
+find.v 71 :: discover
+find.v 72 :: discover
+find.v 73 :: discover
+find.v 74 :: discover
+find.v 75 :: discover
+find.v 76 :: discover
+find.v 77 :: discover
+find.v 78 :: discover
+find.v 79 :: discover
+find.v 80 :: discover
+fix.v 81 :: repair
+fix.v 82 :: repair
+fix.v 83 :: repair
+fix.v 84 :: repair
+fix.v 85 :: repair
+fix.v 86 :: repair
+fix.v 87 :: repair
+fix.v 88 :: repair
+fix.v 89 :: repair
+fix.v 90 :: repair
+manage.v 91 :: handle
+manage.v 92 :: handle
+manage.v 93 :: handle
+manage.v 94 :: handle
+manage.v 95 :: handle
+manage.v 96 :: handle
+manage.v 97 :: handle
+manage.v 98 :: handle
+manage.v 99 :: handle
+manage.v 100 :: handle
+neat.a 101 :: nifty
+neat.a 102 :: nifty
+neat.a 103 :: nifty
+neat.a 104 :: nifty
+neat.a 105 :: nifty
+neat.a 106 :: nifty
+neat.a 107 :: nifty
+neat.a 108 :: nifty
+neat.a 109 :: nifty
+neat.a 110 :: nifty
+rich.a 111 :: 
+rich.a 112 :: 
+rich.a 113 :: 
+rich.a 114 :: 
+rich.a 115 :: 
+rich.a 116 :: 
+rich.a 117 :: 
+rich.a 118 :: 
+rich.a 119 :: 
+rich.a 120 :: 
+severely.r 121 :: badly
+severely.r 122 :: badly
+severely.r 123 :: badly
+severely.r 124 :: badly
+severely.r 125 :: badly
+severely.r 126 :: badly
+severely.r 127 :: badly
+severely.r 128 :: badly
+severely.r 129 :: badly
+severely.r 130 :: badly
+stand.v 131 :: 
+stand.v 132 :: 
+stand.v 133 :: 
+stand.v 134 :: 
+stand.v 135 :: 
+stand.v 136 :: 
+stand.n 137 :: 
+stand.n 138 :: 
+stand.n 139 :: 
+stand.n 140 :: 
+well.r 141 :: 
+well.r 142 :: 
+well.r 143 :: 
+well.r 144 :: 
+well.r 145 :: 
+well.r 146 :: 
+well.r 147 :: 
+well.r 148 :: 
+well.r 149 :: 
+well.r 150 :: 
+wild.a 151 :: 
+wild.a 152 :: 
+wild.a 153 :: 
+wild.a 154 :: 
+wild.a 155 :: 
+wild.a 156 :: 
+wild.a 157 :: 
+wild.a 158 :: 
+wild.a 159 :: 
+wild.n 160 :: 
+can.n 161 :: 
+can.n 162 :: 
+can.n 163 :: 
+can.n 164 :: 
+can.n 165 :: 
+can.n 166 :: 
+can.n 167 :: 
+can.n 168 :: 
+can.n 169 :: 
+can.n 170 :: 
+dark.n 171 :: darkness
+dark.n 172 :: darkness
+dark.n 173 :: darkness
+dark.n 174 :: darkness
+dark.n 175 :: darkness
+dark.n 176 :: darkness
+dark.n 177 :: darkness
+dark.n 178 :: darkness
+dark.n 179 :: darkness
+dark.n 180 :: darkness
+examination.n 181 :: exam
+examination.n 182 :: exam
+examination.n 183 :: exam
+examination.n 184 :: exam
+examination.n 185 :: exam
+examination.n 186 :: exam
+examination.n 187 :: exam
+examination.n 188 :: exam
+examination.n 189 :: exam
+examination.n 190 :: exam
+fear.v 191 :: dread
+fear.v 192 :: dread
+fear.v 193 :: dread
+fear.v 194 :: dread
+fear.v 195 :: dread
+fear.v 196 :: dread
+fear.v 197 :: dread
+fear.v 198 :: dread
+fear.v 199 :: dread
+fear.v 200 :: dread
+forget.v 201 :: 
+forget.v 202 :: 
+forget.v 203 :: 
+forget.v 204 :: 
+forget.v 205 :: 
+forget.v 206 :: 
+forget.v 207 :: 
+forget.v 208 :: 
+forget.v 209 :: 
+forget.v 210 :: 
+gall.n 211 :: 
+gall.n 212 :: 
+gall.n 213 :: 
+gall.n 214 :: 
+gall.n 215 :: 
+gall.n 216 :: 
+gall.n 217 :: 
+gall.n 218 :: 
+gall.n 219 :: 
+gall.n 220 :: 
+grim.a 221 :: gloomy
+grim.a 222 :: gloomy
+grim.a 223 :: gloomy
+grim.a 224 :: gloomy
+grim.a 225 :: gloomy
+grim.a 226 :: gloomy
+grim.a 227 :: gloomy
+grim.a 228 :: gloomy
+grim.a 229 :: gloomy
+grim.a 230 :: gloomy
+lie.v 231 :: 
+lie.v 232 :: 
+lie.v 233 :: 
+lie.v 234 :: 
+lie.v 235 :: 
+lie.v 236 :: 
+lie.v 237 :: 
+lie.v 238 :: 
+lie.v 239 :: 
+lie.v 240 :: 
+nasty.a 241 :: 
+nasty.a 242 :: 
+nasty.a 243 :: 
+nasty.a 244 :: 
+nasty.a 245 :: 
+nasty.a 246 :: 
+nasty.a 247 :: 
+nasty.a 248 :: 
+nasty.a 249 :: 
+nasty.a 250 :: 
+nearly.r 251 :: almost
+nearly.r 252 :: almost
+nearly.r 253 :: almost
+nearly.r 254 :: almost
+nearly.r 255 :: almost
+nearly.r 256 :: almost
+nearly.r 257 :: almost
+nearly.r 258 :: almost
+nearly.r 259 :: almost
+nearly.r 260 :: almost
+outdoor.a 261 :: 
+outdoor.a 262 :: 
+outdoor.a 263 :: 
+outdoor.a 264 :: 
+outdoor.a 265 :: 
+outdoor.a 266 :: 
+outdoor.a 267 :: 
+outdoor.a 268 :: 
+outdoor.a 269 :: 
+outdoor.a 270 :: 
+reasonable.a 271 :: sensible
+reasonable.a 272 :: sensible
+reasonable.a 273 :: sensible
+reasonable.a 274 :: sensible
+reasonable.a 275 :: sensible
+reasonable.a 276 :: sensible
+reasonable.a 277 :: sensible
+reasonable.a 278 :: sensible
+reasonable.a 279 :: sensible
+reasonable.a 280 :: sensible
+rough.a 281 :: rocky
+rough.a 282 :: rocky
+rough.a 283 :: rocky
+rough.a 284 :: rocky
+rough.a 285 :: rocky
+rough.a 286 :: rocky
+rough.a 287 :: rocky
+rough.a 288 :: rocky
+rough.a 289 :: rocky
+rough.a 290 :: rocky
+run.v 291 :: 
+run.v 292 :: 
+run.v 293 :: 
+run.v 294 :: 
+run.v 295 :: 
+run.v 296 :: 
+run.v 297 :: 
+run.v 298 :: 
+run.v 299 :: 
+run.v 300 :: 
